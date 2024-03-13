@@ -11,7 +11,6 @@ const OldItemsRegistration = () => {
   const onSubmit = (d) => {
     alert(JSON.stringify(d))
   }
-    const {toast} = useToast();
     return (
         <div className="flex flex-col gap-5 w-full py-5">
             <PageTitle title={'Old Items Registration'} />

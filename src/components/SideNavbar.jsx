@@ -50,11 +50,11 @@ const SideNavbar = () => {
                     href: '/dashboard/users'
                 },
                 {
-                    title: "Old Items Registration",
+                    title: "Sample Form",
                     label: "",
                     icon: ShoppingCart,
                     variant: "default",
-                    href: '/dashboard/old-items-registration'
+                    href: '/dashboard/sample-form'
                 },
                 ]}
           />
